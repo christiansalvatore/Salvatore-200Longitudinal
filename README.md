@@ -14,7 +14,7 @@ This dataset consists of 200 patients, equally divided into 50 AD, 50 progressiv
 
 Subjects were followed up for 4 different time points, namely 24 months before stable diagnosis, 18 months before stable diagnosis, 12 months before stable diagnosis, and the stable-diagnosis time point (as a benchmark for the performance of classification).
 
-It must be underlined that the 4 time points reported above are the common ones among all the subjects in the database. However, subjects were followed up for longer periods (up to 10 years), when possible. The subjects included in this dataset were the ones for which the diagnosis at the stable-diagnosis time point was confirmed during the entire follow-up period. Because of this, the diagnosis of these subjects is much more reliable than the one of the subjects in the [Salvatore-509 dataset](https://github.com/christiansalvatore/Salvatore-509), for which such a long follow up was not available.
+It must be underlined that the 4 time points reported above are the common ones among all the subjects in the database. However, subjects were followed up for longer periods (up to 10 years), when possible. The subjects included in this dataset were the ones for which the diagnosis at the stable-diagnosis time point was confirmed during the entire follow-up period. Because of this, the diagnosis of these subjects is much more reliable than the one of the subjects in the [Salvatore-509](https://github.com/christiansalvatore/Salvatore-509) dataset, for which such a long follow up was not available.
 
 ### Previous literature
 To be updated.
