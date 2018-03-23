@@ -14,6 +14,8 @@ This dataset consists of 200 patients, equally divided into 50 AD, 50 progressiv
 
 Subjects were followed up for 4 different time points, namely 24 months before stable diagnosis, 18 months before stable diagnosis, 12 months before stable diagnosis, and the stable-diagnosis time point (as a benchmark for the performance of classification).
 
+It must be underlined that the 4 time points reported above are the common ones among all the subjects in the database. However, subjects were followed up for longer periods (up to 10 years), when possible. The subjects included in this dataset were the ones for which the diagnosis at the stable-diagnosis time point was confirmed during the entire follow-up period. Because of this, the diagnosis of these subjects is much more reliable than the one of the subjects in the [Salvatore-509 dataset](https://github.com/christiansalvatore/Salvatore-509), for which such a long follow up was not available.
+
 ### Previous literature
 To be updated.
 
@@ -21,7 +23,8 @@ To be updated.
 On this [page](https://christiansalvatore.github.io/2016-10-20/is-this-alzheimer/#Salvatore-200Longitudinal), up-to-date classification performance on this dataset are reported. Results are given in terms of accuracy or balanced accuracy of classification. Sensitivity, specificity and AUC are also reported (when provided).
 
 ### Citing
->Salvatore, C. et al. (2015). Magnetic resonance imaging biomarkers for the early diagnosis of Alzheimer's disease: a machine learning approach. Frontiers in Neuroscience, 9. doi: 10.3389/fnins.2015.00307. (to be updated)
+(to be updated)
+>Salvatore, C. et al. (2015). Magnetic resonance imaging biomarkers for the early diagnosis of Alzheimer's disease: a machine learning approach. Frontiers in Neuroscience, 9. doi: 10.3389/fnins.2015.00307.
 
 ### ADNI policy
 ADNI data cannot be publicly shared by private users. It was not possible to directly upload data in this repository. However, feel free to <a href="mailto:christian.salvatore.ibfm.cnr.it">contact me</a> if you need more information about how to access data or about data used in the original paper by Salvatore et al.
