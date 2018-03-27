@@ -27,6 +27,6 @@ On this [page](https://christiansalvatore.github.io/2016-10-20/is-this-alzheimer
 >Salvatore, C. et al. (2015). Magnetic resonance imaging biomarkers for the early diagnosis of Alzheimer's disease: a machine learning approach. Frontiers in Neuroscience, 9. doi: 10.3389/fnins.2015.00307.
 
 ### ADNI policy
-ADNI data cannot be publicly shared by private users. It was not possible to directly upload data in this repository. However, feel free to <a href="mailto:christian.salvatore.ibfm.cnr.it">contact me</a> if you need more information about how to access data or about data used in the original paper by Salvatore et al.
+ADNI data cannot be publicly shared by private users. It was not possible to directly upload data in this repository. However, feel free to <a href="mailto:christian.salvatore@ibfm.cnr.it">contact me</a> if you need more information about how to access data or about data used in the original paper by Salvatore et al.
 
 Remember to follow the [ADNI data sharing and publication policy](http://adni.loni.usc.edu/wp-content/uploads/how_to_apply/ADNI_DSP_Policy.pdf), if you are going to publish a work in which data from the ADNI database were used.
