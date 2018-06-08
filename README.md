@@ -23,7 +23,7 @@ To be updated.
 On this [page](https://christiansalvatore.github.io/2016-10-20/is-this-alzheimer/#Salvatore-200Longitudinal), up-to-date classification performance on this dataset are reported. Results are given in terms of accuracy or balanced accuracy of classification. Sensitivity, specificity and AUC are also reported (when provided).
 
 ### Citing
->Salvatore, C. et al. (2018). MRI Characterizes the Progressive Course of AD and Predicts Conversion to Alzheimer’s Dementia 24 Months Before Probable Diagnosis. Front. Aging Neurosci., 24 May 2018 | https://doi.org/10.3389/fnagi.2018.00135
+>Salvatore, C. et al. (2018). MRI Characterizes the Progressive Course of AD and Predicts Conversion to Alzheimer’s Dementia 24 Months Before Probable Diagnosis. Front. Aging Neurosci., 24 May 2018 https://doi.org/10.3389/fnagi.2018.00135
 
 ### ADNI policy
 ADNI data cannot be publicly shared by private users. It was not possible to directly upload data in this repository. However, feel free to <a href="mailto:christian.salvatore@ibfm.cnr.it">contact me</a> if you need more information about how to access data or about data used in the original paper by Salvatore et al.
