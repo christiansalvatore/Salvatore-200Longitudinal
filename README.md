@@ -3,7 +3,7 @@ This is a public dataset to be used as a benchmark in the field of automatic cla
 
 This repository does not contain any data from patients itself. Data are taken from the <a href="http://adni.loni.usc.edu/" target="_blank">Alzheimer's Disease Neuroimaging Initiative (ADNI) public database</a>, from where they can be downloaded after registration. 
 
-This repository actually provides:
+This repository currently provides:
   1. IDs of patients (corresponding to the Subject IDs in the ADNI database)
   2. MRI IDs (corresponding to the Image Data IDs in the ADNI database)
   3. to be updated -> cross-validation indexes for the AD+pMCI vs sMCI+CN binary classification task
